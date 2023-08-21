@@ -1,0 +1,153 @@
+.drawer-bg{
+    background: rgba(0,0,0,.7);
+   
+}
+.ant-drawer-header{
+    padding: 18px 32px;
+    background: rgb(13, 71, 161);
+    background: linear-gradient( 90deg, rgba(13, 71, 161, 1) 0%, rgba(54, 107, 201, 1) 100% );
+}
+.ant-drawer-close {
+    display: none;
+}
+.ant-drawer-title {
+flex: 1 1;
+margin: 0;
+color: white;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+font-family: "Nunito Sans",sans-serif;
+padding-left: 15px;
+}
+.closeBtn{
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 300;
+    color: white;
+    padding: 0 25px;
+}
+.close-arrow{
+    
+    border-radius: 50%;
+    color: #ffffff;
+    transition: 0.5s;
+  animation: cowmove 0.7s infinite;   
+}
+@keyframes cowmove{
+    0% {
+      transform: translateX(3px);
+    }
+    49% {
+      transform: translateX(8px);
+    }
+    50% {
+      transform: translateX(8x);
+    }
+    100% {
+      transform: translateX(3px);
+    }
+}
+.save-btn {
+    position: fixed;
+    bottom: 20px;
+    padding: 5px 25px;
+    background: #fc8711;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    font-size: 14px;
+    border: 0;
+  cursor: pointer;
+}
+.save-btn:hover{
+    color: #fff;
+    font-size: 16px;
+    border: 0;
+    /* transition: all .3s ease-in-out; */
+}
+.input-fields{
+display: flex;
+flex-direction: column;
+margin: 10px;
+}
+.input-label{
+    font-size: 14px;
+    color: #001d52;
+    margin-bottom: 2px;
+}
+
+.input-user{
+    /* font-size: 12px; */
+    min-height: 34px;
+    color: #001d52;
+    font-weight: 500;
+    font-size: 14px !important;
+    opacity: 1;
+    letter-spacing: .01em;
+    padding: 10px;
+    background: #f9f9fb;
+    box-shadow: none;
+    border: 0;
+    border-radius: 0;
+    outline: none;
+    background-color:#e8eeff;
+    /* margin: 5px; */
+}
+.form{
+    padding: 10px 10px  10px  15px;
+}
+.ant-select-selector{
+    background-color:#e8eeff;
+    
+}
+.ant-select-selection-search{
+    /* background-color:#e8eeff; */
+}
+.ant-select{
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color:#e8eeff;
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+   
+    background-color: #e8eeff;
+    border: none;
+    border-color:#e8eeff;
+    outline: none;
+   
+}
+.error{
+    display: flex;
+    align-items: center;
+    border-color:#e8eeff;
+    height: 2px;
+    z-index: 1;
+}
+.error-input{
+    padding: 0;
+    margin: 0;
+    padding-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 1px ;
+    background-color:#e8eeff;
+}
+.error-icon{
+    color: red;
+    background-color:#e8eeff;
+}
+.MuiInput-input {
+    padding: 0;
+}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input {
+    padding: 0;
+}
+.success-popup{
+    background-color: #001d52;
+    color: white;
+    font-size: 12px;
+    width: 10%;
+    height: 56px;
+}

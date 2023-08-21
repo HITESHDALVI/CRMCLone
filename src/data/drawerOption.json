@@ -1,0 +1,278 @@
+{
+    "designation": [
+        {
+            "id": 1,
+            "value": "Consultant"
+            
+        },
+        {
+            "id": 2,
+            "value": "Customer Sucess enginner"
+            
+        },
+        {
+            "id": 3,
+            "value": "Designation 1"
+            
+        },
+        {
+            "id": 4,
+            "value": "Designation 10"
+        
+        },
+        {
+            "id": 5,
+            "value": "Designation 11"
+            
+        },
+        {
+            "id": 6,
+            "value": "Designation 12"
+                
+        },
+        {
+            "id": 7,
+            "value": "Designation 13"
+                    
+        },
+        {
+            "id": 8,
+            "value": "Designation 14"
+                        
+        },
+        {
+            "id": 9,
+            "value": "Designation 15"
+                    
+        },
+        {
+            "id": 10,
+            "value": "Designation 16"
+                        
+        }
+      ],
+      "assign": [
+        {
+            "id": 1,
+            "value": "Edge Consultant"
+            
+        },
+        {
+            "id": 2,
+            "value": "Bhavika Modir"
+            
+        },
+        {
+            "id": 3,
+            "value": "Abhijeet"
+            
+        },
+        {
+            "id": 4,
+            "value": "Avinash Zungare"
+        
+        },
+        {
+            "id": 5,
+            "value": "Avnish Srivastava"
+            
+        },
+        {
+            "id": 6,
+            "value": "Alkesh Koyande"
+                
+        },
+        {
+            "id": 7,
+            "value": "Ashutosh Srivastava"
+                    
+        },
+        {
+            "id": 8,
+            "value": "Chinmay"
+                        
+        },
+        {
+            "id": 9,
+            "value": "Aarti Ghosal"
+                    
+        },
+        {
+            "id": 10,
+            "value": "Alkesh"
+                        
+        },
+        {
+            "id": 11,
+            "value": "David Sams"
+                        
+        }
+      ],
+      "source": [
+        {
+            "id": 1,
+            "value": "Campaign"
+            
+        },
+        {
+            "id": 2,
+            "value": "Cold Call"
+            
+        },
+        {
+            "id": 3,
+            "value": "Conference"
+            
+        },
+        {
+            "id": 4,
+            "value": "Direct Mail"
+        
+        },
+        {
+            "id": 5,
+            "value": "EMail"
+            
+        },
+        {
+            "id": 6,
+            "value": "Intelpack Mumbai 2020"
+                
+        },
+        {
+            "id": 7,
+            "value": "Exhibition"
+                    
+        },
+        {
+            "id": 8,
+            "value": "Indiamart"
+                        
+        },
+        {
+            "id": 9,
+            "value": "P-Mec Delhi 2020"
+                    
+        },
+        {
+            "id": 10,
+            "value": "CPHI 2020"
+                        
+        }
+      ],
+      "region": [
+        {
+            "id": 1,
+            "value": "Test"
+            
+        },
+        {
+            "id": 2,
+            "value": "Test 2"
+            
+        },
+        {
+            "id": 3,
+            "value": "Test 3"
+            
+        },
+        {
+            "id": 4,
+            "value": "South Region"
+        
+        },
+        {
+            "id": 5,
+            "value": "East"
+            
+        }, 
+        {
+            "id": 6,
+            "value": "West Region"
+                    
+        }
+      ],
+      "industry": [
+        {
+            "id": 1,
+            "value": "Apparel"
+            
+        },
+        {
+            "id": 2,
+            "value": "Banking"
+            
+        },
+        {
+            "id": 3,
+            "value": "Bio Technology"
+            
+        },
+        {
+            "id": 4,
+            "value": "BFSI"
+        
+        },
+        {
+            "id": 5,
+            "value": "Automobile"
+            
+        },
+        {
+            "id": 6,
+            "value": "Automobile Industry"
+                
+        },
+        {
+            "id": 7,
+            "value": "ANALY"
+                    
+        },
+        {
+            "id": 8,
+            "value": "Air"
+                        
+        },
+        {
+            "id": 9,
+            "value": "Air Room"
+                    
+        },
+        {
+            "id": 10,
+            "value": "Agricultural Industry"
+                        
+        }
+      ],
+      "bussiness": [
+        {
+            "id": 1,
+            "value": "EdgeCrm"
+            
+        },
+        {
+            "id": 2,
+            "value": "Test Lob"
+            
+        }
+      ],
+      "unit": [
+        {
+            "id": 1,
+            "value": "Test bu"  
+        },
+        {
+            "id": 2,
+            "value": "12 Grids"
+            
+        },
+        {
+            "id": 3,
+            "value": "EdgeCrm"
+            
+        }
+      ]
+
+
+
+}
